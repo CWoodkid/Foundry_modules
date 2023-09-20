@@ -1,0 +1,32 @@
+{
+  "title": "Domille's wondrous works - Ritual Temple",
+  "description": "Domille's wondrous works - Ritual Temple - July 2021",
+  "version": "1.0.1",
+  "packs": [ 
+    {
+      "name": "dww-ritual-temple",
+      "label": "DWW Ritual Temple",
+      "path": "packs/dww-ritual-temple.db",
+      "type": "Scene",
+      "private": false,
+      "flags": {}
+    }
+  ],
+  "url": "http://dwwbattlemaps.com/",
+  "manifest": "http://dwwbattlemaps.com/foundry-packs-back-catalogue/dww-ritual-temple/module.json",
+  "download": "http://dwwbattlemaps.com/foundry-packs-back-catalogue/dww-ritual-temple/dww-ritual-temple.zip",
+  "id": "dww-ritual-temple",
+  "compatibility": {
+    "minimum": "0.7.0",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "Domille, LeRatierBretonnien",
+      "flags": {}
+    }
+  ]
+ 
+  
+   
+}
